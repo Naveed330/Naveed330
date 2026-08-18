@@ -1,6 +1,6 @@
 Hi, I'm Naveed Aslam, **Senior Full-Stack Developer** 👋
 
-React.js | Next.js | Node.js | TypeScript | SaaS | ERP/CRM | AI Automation
+React.js | Next.js | Node.js | Nest.js | TypeScript | JavaScript |  SaaS | ERP/CRM | AI Automation
 
 I’m a Senior Full-Stack Developer focused on building scalable, secure, high-performance web applications and business platforms. I specialize in turning complex requirements into **clean, maintainable, and production-ready solutions
 
