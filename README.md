@@ -72,6 +72,6 @@ CRM platform for managing **customers, leads, business operations, dashboards an
 * 💼 **LinkedIn:** https://www.linkedin.com/in/naveed-aslam-559166196
 * 🌐 **Portfolio:** https://nvd-portfolio.vercel.app
 * 💻 **GitHub:** https://github.com/Naveed330
-* 📧 **Email:** mailto:na2885060@gmail.com
+* 📧 **Email:** na2885060@gmail.com
 
 Thanks for visiting my profile! 🚀
