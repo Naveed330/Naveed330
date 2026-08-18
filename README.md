@@ -2,7 +2,7 @@ Hi, I'm Naveed Aslam, **Senior Full-Stack Developer** 👋
 
 React.js | Next.js | Node.js | Nest.js | TypeScript | JavaScript |  SaaS | ERP/CRM | AI Automation
 
-I’m a Senior Full-Stack Developer focused on building scalable, secure, high-performance web applications and business platforms. I specialize in turning complex requirements into **clean, maintainable, and production-ready solutions
+I’m a Senior Full-Stack Developer focused on building scalable, secure, high-performance web applications and business platforms. I specialize in turning complex requirements into clean, maintainable, and production-ready solutions
 
 💼 About Me
 * 🧑‍💻 Senior Full-Stack Developer with strong JavaScript/TypeScript expertise
@@ -69,9 +69,9 @@ CRM platform for managing **customers, leads, business operations, dashboards an
 * ⚡ Performance & API Optimization
 
 📫 Connect With Me
-* 💼 **LinkedIn:** [linkedin.com/in/naveed-aslam-559166196](https://www.linkedin.com/in/naveed-aslam-559166196/)
-* 🌐 **Portfolio:** [nvd-portfolio.vercel.app](https://nvd-portfolio.vercel.app/)
-* 💻 **GitHub:** [github.com/Naveed330](https://github.com/Naveed330)
-* 📧 **Email:** [na2885060@gmail.com](mailto:na2885060@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/naveed-aslam-559166196
+* 🌐 **Portfolio:** https://nvd-portfolio.vercel.app
+* 💻 **GitHub:** https://github.com/Naveed330
+* 📧 **Email:** mailto:na2885060@gmail.com
 
 Thanks for visiting my profile! 🚀
