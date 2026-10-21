@@ -57,7 +57,7 @@ CRM platform for managing **customers, leads, business operations, dashboards an
 
 **Tech:** React.js • Node.js • MongoDB • REST APIs
 
-🔗 [Live Demo](https://mano4demo.netlify.app/)
+🔗 [Live Demo](https://tourism-crm.netlify.app/)
 
 🎯 Current Focus
 * 🚀 Scalable SaaS & ERP/CRM Architecture
