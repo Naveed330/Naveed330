@@ -9,9 +9,9 @@ Senior Software Engineer experienced in building scalable web applications, SaaS
 - ⚛️ Frontend: React.js, Next.js, TypeScript
 - 🟢 Backend: Node.js, NestJS, Express.js, REST APIs
 - 🗄️ Database: MongoDB, Mongoose, MySQL, PostgreSQL
-- 🏢 Expertise: SaaS, ERP, CRM, HRM & Business Applications
+- 🏢 Expertise: SaaS, ERP, CRM, CMS, HRM & Business Applications
 - 🤖 Interests: AI Agents, AI Automation & Intelligent Applications
-- 📱 Mobile: React Native & Expo
+- 📱 Mobile: React Native
 
 ### 🚀 Featured Projects
 - **SaaS ERP:** HRM, Payroll, Accounting, Sales & Business Management.
