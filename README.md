@@ -1,4 +1,4 @@
-Hi, I'm Naveed Aslam, **Senior Full-Stack Developer** 👋
+Hi, I'm Naveed Aslam, **Senior Software Engineer** 👋
 
 React.js | Next.js | Node.js | Nest.js | TypeScript | JavaScript |  SaaS | ERP/CRM | AI Automation
 
